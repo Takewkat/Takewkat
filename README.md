@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working in https://hublo.com/en as a Quality Assurance Engineer
-- 🌱 I’m currently expanding my skillset with a focus on Github Actions and mobile testing
+- 🌱 I’m in the process of enhancing my skillset with a focus on Github Actions and Mobile testing
 
 #### When I'm not immersed in code, you can often find me embracing my passions:
 
