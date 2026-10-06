@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m a Lead Quality Assurance Engineer on the Platform team at [Believe](https://www.believe.com/), working on test observability, quality platforms and CI
-- 🌱 I’m looking for an SRE / DevOps role in France: Kubernetes, OpenTelemetry and cloud-native systems
+- 🔭 I’m a Lead Quality Assurance Engineer on the Platform team at [Believe](https://www.believe.com/), already working on observability with OpenTelemetry, quality platforms and CI
+- 🌱 I’m looking for an SRE / DevOps role in France: Kubernetes and cloud-native systems
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iana-kaminski-a646991a0/)
 
 When I'm not immersed in code, you can often find me embracing my passions:
